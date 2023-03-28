@@ -7,4 +7,4 @@ Muley here, Currently working as an SRE at [Mindvalley](https://wwww.mindvalley.
 - [Bugcrowd](https://bugcrowd.com/muleyl)
 - [Twitter](https://twitter.com/muleyl)
 - [LinkedIn](https://www.linkedin.com/in/muleyl)
-- [Medium](https://blog.dhivehi.com)
+- [Blog](https://blog.dhivehi.dev)

@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-Muley here, Currently working as an SRE at [Mindvalley](https://wwww.mindvalley.com). 
+Muley here, Currently working as an SRE at [Mindvalley](https://www.mindvalley.com). 
 
 ## 📫 Drop In-
 - [Bugcrowd](https://bugcrowd.com/muleyl)
